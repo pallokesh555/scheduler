@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    background: linear-gradient(45deg, rgb(11, 124, 146) ,plum);
+    background-repeat: no-repeat;
+}
+
+#calendar{
+    width: 80%;
+    margin-top:1%;
+    
+
+}
+
+.nav{
+    background-color: whitesmoke;
+    margin: 20px;
+    padding: 20px;
+    border-radius:5px;
+    width:15%;
+    height:auto;
+}
+#uploadForm{
+    background-image: linear-gradient(white,smoke);
+    
+}
+img{
+    height:400px;
+    width: 400px;;
+}
+p{
+    color:plum;
+    text-align: center;
+    font-size: 100px;
+    
+   
+}
+
+#userName{
+    color:plum;
+    font-size: 30px;
+}
